@@ -18,7 +18,7 @@ from keras import optimizers
 import matplotlib.pyplot as plt
 
 # Set variables
-base_dir = r'C:\Users\abayk_000\Documents\A Knowledge base\AWS\Deep Learning\Cats vs Dogs\data2'
+base_dir = r'update\folder\name\here\data'
 training_dir = os.path.join(base_dir, 'train')
 validation_dir = os.path.join(base_dir, 'validate')
 testing_dir = os.path.join(base_dir, 'test')
